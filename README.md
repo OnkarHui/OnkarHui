@@ -1,16 +1,39 @@
-### Hi there 👋
+![Introduction](https://github.com/OnkarHui/OnkarHui/blob/main/20211003_152811%20(1).gif)
+# Introduction 👇
+Hey I am Onkar Hui from Netaji Subhas Engineering College. Now I am in 1st year of Computer Science and Engineering.
 
-<!--
-**OnkarHui/OnkarHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕵️‍♂️ Basic Details
 
-Here are some ideas to get you started:
+**Name**- *Onkar Hui*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**City**- *Kaliyaganj*
+
+<img src="https://img.icons8.com/emoji/48/000000/house-emoji.png"/>
+
+## ❇️ College Details
+
+**College Name**- *Netaji Subhash Engineering College*
+
+**City**- *Kolkata, Garia*
+
+## 🎇Here is my skills
+
+| Sl_No. | Skills|
+|----|----|
+|1.| C language |
+|2.| HTML |
+|3.| Command Propmt |
+|4.| Editing |
+
+## 💻 Courses
+1. Coursera
+2. Unacademy
+3. Doubtnut
+
+## 🇮🇳 Language
+- Bengali
+- Hindi
+- English
+
+## ✨ Here is my GitHub Profile ✨
+[Click Here](https://github.com/OnkarHui)
